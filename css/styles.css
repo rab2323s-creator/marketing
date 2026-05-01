@@ -1337,3 +1337,16 @@ footer {
 .isotopeWrapper article {
     margin: 0px;
 }
+#home .banner-content {
+    left: 0 !important;
+    right: auto !important;
+    width: 100% !important;
+}
+
+#home .hero-text {
+    width: 45% !important;
+    text-align: right !important;
+    margin: 10% auto 24px 0 !important;
+    padding-left: 40px !important;
+    padding-right: 0 !important;
+}
