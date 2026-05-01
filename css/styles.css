@@ -240,8 +240,8 @@ a:hover {
 .hero-text {
     color: #676e73;
     width: 50%;
-        text-align: left;
-    margin: 10% 0 24px auto;
+    text-align: left;
+    margin: 10% auto 24px 0;
 }
 
 .hero-text p {
